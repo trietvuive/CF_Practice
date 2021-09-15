@@ -1,4 +1,4 @@
-/*#include<iostream>
+#include<iostream>
 using namespace std;
 int n, i, a, x, y, c[2];
 using namespace std;
@@ -28,4 +28,3 @@ int main() {
     for (i = 1; i <= n * n; i++)
         calc();
 }
-*/

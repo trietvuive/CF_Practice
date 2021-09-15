@@ -1,4 +1,4 @@
-/*#include<bits/stdc++.h>
+#include<bits/stdc++.h>
 #define ll long long
 using namespace std;
 const int MAX = 2e3 + 5;
@@ -21,4 +21,3 @@ int main()
 	memset(dp, -1, sizeof dp);
 	cout << solve(0, n - 1) << endl;
 }
-*/

@@ -1,4 +1,4 @@
-/*#include<iostream>
+#include<iostream>
 #include<string>
 using namespace std;
 
@@ -27,4 +27,3 @@ int main()
         cout << a.size() + b.size() - max * 2 << endl;
 	}
 }
-*/

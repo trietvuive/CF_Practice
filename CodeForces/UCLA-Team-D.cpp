@@ -1,4 +1,4 @@
-/*#include<bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
 
 int main()
@@ -22,4 +22,3 @@ int main()
 	else if (order == 4)cout << "Touch" << endl;
 	cout << player << endl;
 }
-*/

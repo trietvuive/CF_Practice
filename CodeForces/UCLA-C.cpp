@@ -1,4 +1,4 @@
-/*#include<bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
 vector<int> g[902];
 vector<bool> used(902);
@@ -39,4 +39,3 @@ int main()
 	if (component > 1)cout << "NO" << endl;
 	else cout << "YES" << endl;
 }
-*/

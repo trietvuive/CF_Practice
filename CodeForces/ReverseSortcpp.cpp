@@ -1,4 +1,4 @@
-/*#include<iostream>
+#include<iostream>
 
 using namespace std;
 int n, arr[102];
@@ -39,4 +39,3 @@ int main()
         cout << "Case #" << i << ": " << cost() << endl;
     }
 }
-*/

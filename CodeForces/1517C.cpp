@@ -1,4 +1,4 @@
-/*#include<bits/stdc++.h>
+#include<bits/stdc++.h>
 int n, p[501], matrix[501][501];
 using namespace std;
 
@@ -25,4 +25,3 @@ int main()
 	}
 
 }
-*/

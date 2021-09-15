@@ -1,4 +1,4 @@
-/*#include<iostream>
+#include<iostream>
 using namespace std;
 const int MAX = 10e5 + 2;
 int ar[MAX];
@@ -26,4 +26,3 @@ int main()
 		}
 	}
 }
-*/

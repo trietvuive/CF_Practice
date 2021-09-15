@@ -100,214 +100,78 @@
     <Filter Include="Source Files\UCLA">
       <UniqueIdentifier>{07f395fb-8618-415b-89ae-ffc264dd4e86}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Round 719 Div. 3">
-      <UniqueIdentifier>{7d3233b9-2de2-4751-b355-f0621969aae1}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Round 723 Div. 2">
-      <UniqueIdentifier>{724bfb6b-9a87-423a-bc5e-a2a8f5664a75}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Source Files\Round 727 Div. 2">
       <UniqueIdentifier>{367822df-2f2e-4749-bfb3-199b405da513}</UniqueIdentifier>
     </Filter>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="SubsetMax.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="1496A.cpp">
-      <Filter>Source Files\Round 706 Div. 2</Filter>
-    </ClCompile>
-    <ClCompile Include="1496B.cpp">
-      <Filter>Source Files\Round 706 Div. 2</Filter>
-    </ClCompile>
-    <ClCompile Include="1497A.cpp">
-      <Filter>Source Files\Round 708 Div. 2</Filter>
-    </ClCompile>
-    <ClCompile Include="1497B.cpp">
-      <Filter>Source Files\Round 708 Div. 2</Filter>
-    </ClCompile>
-    <ClCompile Include="1497-C1.cpp">
-      <Filter>Source Files\Round 708 Div. 2</Filter>
-    </ClCompile>
-    <ClCompile Include="1497E1.cpp">
-      <Filter>Source Files\Round 708 Div. 2</Filter>
-    </ClCompile>
-    <ClCompile Include="1499B.cpp">
-      <Filter>Source Files\Round 106 Div. 2</Filter>
-    </ClCompile>
-    <ClCompile Include="1500A.cpp">
-      <Filter>Source Files\Round 707 Div. 1</Filter>
-    </ClCompile>
-    <ClCompile Include="1501A.cpp">
-      <Filter>Source Files\Round 707 Div. 2</Filter>
-    </ClCompile>
-    <ClCompile Include="1501B.cpp">
-      <Filter>Source Files\Round 707 Div. 2</Filter>
-    </ClCompile>
-    <ClCompile Include="1495B.cpp">
-      <Filter>Source Files\Round 706 Div. 1</Filter>
-    </ClCompile>
-    <ClCompile Include="102986A.cpp">
-      <Filter>Source Files\UTPC Div. 2</Filter>
-    </ClCompile>
-    <ClCompile Include="102986B.cpp">
-      <Filter>Source Files\UTPC Div. 2</Filter>
-    </ClCompile>
-    <ClCompile Include="102985C.cpp">
-      <Filter>Source Files\UTPC Div. 1</Filter>
-    </ClCompile>
-    <ClCompile Include="102985D.cpp">
-      <Filter>Source Files\UTPC Div. 1</Filter>
-    </ClCompile>
-    <ClCompile Include="102985E.cpp">
-      <Filter>Source Files\UTPC Div. 1</Filter>
-    </ClCompile>
-    <ClCompile Include="ReverseSortcpp.cpp">
-      <Filter>Source Files\CodeJam</Filter>
-    </ClCompile>
-    <ClCompile Include="CJ.cpp">
-      <Filter>Source Files\CodeJam</Filter>
-    </ClCompile>
-    <ClCompile Include="ReverseSortEngineering.cpp">
-      <Filter>Source Files\CodeJam</Filter>
-    </ClCompile>
-    <ClCompile Include="MedianSort.cpp">
-      <Filter>Source Files\CodeJam</Filter>
-    </ClCompile>
-    <ClCompile Include="1506D.cpp">
-      <Filter>Source Files\Round 710 Div. 3</Filter>
-    </ClCompile>
-    <ClCompile Include="1499A.cpp">
-      <Filter>Source Files\Round 106 Div. 2</Filter>
-    </ClCompile>
-    <ClCompile Include="1506E.cpp">
-      <Filter>Source Files\Round 710 Div. 3</Filter>
-    </ClCompile>
-    <ClCompile Include="1506C.cpp">
-      <Filter>Source Files\Round 710 Div. 3</Filter>
-    </ClCompile>
-    <ClCompile Include="1494B.cpp">
-      <Filter>Source Files\Round 105 Div. 2</Filter>
-    </ClCompile>
-    <ClCompile Include="1506B.cpp">
-      <Filter>Source Files\Round 710 Div. 3</Filter>
-    </ClCompile>
-    <ClCompile Include="1506A.cpp">
-      <Filter>Source Files\Round 710 Div. 3</Filter>
-    </ClCompile>
-    <ClCompile Include="1398C.cpp">
-      <Filter>Source Files\Round 93 Div.  2</Filter>
-    </ClCompile>
-    <ClCompile Include="1492C.cpp">
-      <Filter>Source Files\Round 704 Div. 2</Filter>
-    </ClCompile>
-    <ClCompile Include="1491A.cpp">
-      <Filter>Source Files\Round 13</Filter>
-    </ClCompile>
-    <ClCompile Include="1510K.cpp">
-      <Filter>Source Files\ICPC Russia</Filter>
-    </ClCompile>
-    <ClCompile Include="1504B.cpp">
-      <Filter>Source Files\Round 712 Div. 2</Filter>
-    </ClCompile>
-    <ClCompile Include="1510D.cpp">
-      <Filter>Source Files\ICPC Russia</Filter>
-    </ClCompile>
-    <ClCompile Include="1503A.cpp">
-      <Filter>Source Files\Round 712 Div. 1</Filter>
-    </ClCompile>
-    <ClCompile Include="1498B.cpp">
-      <Filter>Source Files\Round 711 Div. 2</Filter>
-    </ClCompile>
-    <ClCompile Include="1504D.cpp">
-      <Filter>Source Files\Round 712 Div. 2</Filter>
-    </ClCompile>
-    <ClCompile Include="CodeJam1AA.cpp">
-      <Filter>Source Files\CodeJam Round 1A</Filter>
-    </ClCompile>
-    <ClCompile Include="CodeJam1AB.cpp">
-      <Filter>Source Files\CodeJam Round 1A</Filter>
-    </ClCompile>
-    <ClCompile Include="CodeJamRound1AC.cpp">
-      <Filter>Source Files\CodeJam Round 1A</Filter>
-    </ClCompile>
-    <ClCompile Include="1498C.cpp">
-      <Filter>Source Files\Round 711 Div. 2</Filter>
-    </ClCompile>
-    <ClCompile Include="1491C.cpp">
-      <Filter>Source Files\Round 13</Filter>
-    </ClCompile>
-    <ClCompile Include="1490E.cpp">
-      <Filter>Source Files\Round 703 Div. 3</Filter>
-    </ClCompile>
-    <ClCompile Include="1513C.cpp">
-      <Filter>Source Files\Round 714 Div. 2</Filter>
-    </ClCompile>
-    <ClCompile Include="1509C.cpp">
-      <Filter>Source Files\Round 715 Div. 2</Filter>
-    </ClCompile>
-    <ClCompile Include="CodeJam1BA.cpp">
-      <Filter>Source Files\CodeJam Round 1B</Filter>
-    </ClCompile>
-    <ClCompile Include="1517C.cpp">
-      <Filter>Source Files\Round 718</Filter>
-    </ClCompile>
-    <ClCompile Include="1519D.cpp">
-      <Filter>Source Files\Round 108</Filter>
-    </ClCompile>
-    <ClCompile Include="1521B.cpp">
-      <Filter>Source Files\Round 720 Div. 2</Filter>
-    </ClCompile>
-    <ClCompile Include="1520F1.cpp">
-      <Filter>Source Files\Round 719 Div. 3</Filter>
-    </ClCompile>
-    <ClCompile Include="UCLA-A.cpp">
-      <Filter>Source Files\UCLA</Filter>
-    </ClCompile>
-    <ClCompile Include="UCLA-B.cpp">
-      <Filter>Source Files\UCLA</Filter>
-    </ClCompile>
-    <ClCompile Include="UCLA-C.cpp">
-      <Filter>Source Files\UCLA</Filter>
-    </ClCompile>
-    <ClCompile Include="UCLA-D.cpp">
-      <Filter>Source Files\UCLA</Filter>
-    </ClCompile>
-    <ClCompile Include="UCLA-E.cpp">
-      <Filter>Source Files\UCLA</Filter>
-    </ClCompile>
-    <ClCompile Include="UCLA-Team-A.cpp">
-      <Filter>Source Files\UCLA</Filter>
-    </ClCompile>
-    <ClCompile Include="UCLA-Team-B.cpp">
-      <Filter>Source Files\UCLA</Filter>
-    </ClCompile>
-    <ClCompile Include="UCLA-Team-E.cpp">
-      <Filter>Source Files\UCLA</Filter>
-    </ClCompile>
-    <ClCompile Include="UCLA-Team-H.cpp">
-      <Filter>Source Files\UCLA</Filter>
-    </ClCompile>
-    <ClCompile Include="UCLA-Team-D.cpp">
-      <Filter>Source Files\UCLA</Filter>
-    </ClCompile>
-    <ClCompile Include="1520E.cpp">
-      <Filter>Round 719 Div. 3</Filter>
-    </ClCompile>
-    <ClCompile Include="1526C1.cpp">
-      <Filter>Round 723 Div. 2</Filter>
-    </ClCompile>
-    <ClCompile Include="1539D.cpp">
-      <Filter>Source Files\Round 727 Div. 2</Filter>
-    </ClCompile>
-    <ClCompile Include="1539C.cpp">
-      <Filter>Source Files\Round 727 Div. 2</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="1493B.cpp">
-      <Filter>Source Files\Round 705 Div. 2</Filter>
-    </None>
+    <Filter Include="Source Files\Round 725 Div. 3">
+      <UniqueIdentifier>{3a9a5b31-74b2-4799-b29a-c3ebb43892ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Round 728 Div. 1">
+      <UniqueIdentifier>{cb4f7205-3296-4e4a-bca3-a9d5021f6a80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Round 731 Div. 3">
+      <UniqueIdentifier>{443645c1-80df-47f1-9fea-7f5fe3cf1d5c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Round 729 Div. 2">
+      <UniqueIdentifier>{f23fb686-93bd-48b4-8b4b-d05f85aaed70}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Round 726 Div. 2">
+      <UniqueIdentifier>{b476a233-ee94-4776-ac43-f662440e09e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Round 723 Div. 2">
+      <UniqueIdentifier>{724bfb6b-9a87-423a-bc5e-a2a8f5664a75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Global Round 15">
+      <UniqueIdentifier>{54e143f7-b699-49d5-a4fe-352dc0ff4a01}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Round 734 Div. 3">
+      <UniqueIdentifier>{73bf7907-12af-4de5-a1f6-8af3df10242b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Round 735 Div. 2">
+      <UniqueIdentifier>{666373e7-9d52-42d3-90f7-a3805bf7d835}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Education Round 112 Div. 2">
+      <UniqueIdentifier>{4348b6b9-413a-48f3-ae4f-e440b929820c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Round 721 Div. 2">
+      <UniqueIdentifier>{9af33577-449c-44ed-a42e-c8c33b9cd2f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Harbour Space">
+      <UniqueIdentifier>{0d4b95cc-5fa9-4d46-bbf8-cc9fc20560a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Round 739 Div. 3">
+      <UniqueIdentifier>{da83d662-eb51-40c9-a173-7b52ba765c88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Round 738 Div. 2">
+      <UniqueIdentifier>{421dbb60-2629-4221-8998-188dddedc04d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Round 737 Div. 2">
+      <UniqueIdentifier>{6d638df4-217f-4c62-af7c-f08654f11da6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Round 733">
+      <UniqueIdentifier>{8f11f8ae-5749-431f-8150-471b10fc8df3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Round 740 Div. 1">
+      <UniqueIdentifier>{4e778c2d-f6f3-47e9-bc25-ab4c97f417bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Round 740 Div. 2">
+      <UniqueIdentifier>{e1979554-1504-4c24-92b4-0a59a0d51cd9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Facebook Hacker Cup">
+      <UniqueIdentifier>{8eea6dd6-ba52-4bfa-ac68-cf7d78e5612a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Deltix Summer 2021">
+      <UniqueIdentifier>{56ed3421-00ce-49f0-b51d-ee09d4ad233f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Round 111 Div. 2">
+      <UniqueIdentifier>{40bd3b64-aef4-45ca-80a2-2f4a6af6d35c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Round 741 Div. 2">
+      <UniqueIdentifier>{34121b6c-b92b-49da-a036-e4318603487f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Round 736 Div. 2">
+      <UniqueIdentifier>{55318596-c194-4143-b631-656596c11b4c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="bigint.h">

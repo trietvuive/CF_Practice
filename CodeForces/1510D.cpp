@@ -1,4 +1,4 @@
-/*#include<iostream>
+#include<iostream>
 #include<vector>
 
 const double NEG_INFINITY = -1e300;
@@ -51,4 +51,4 @@ int main()
 			cout << i << " ";
 		cout << endl;
 	}
-}*/
+}

@@ -1,4 +1,4 @@
-/*#include<string>
+#include<string>
 #include<iostream>
 using namespace std;
 bool removable(const string& s)
@@ -32,4 +32,3 @@ int main()
 			cout << "NO" << endl;
 	}
 }
-*/

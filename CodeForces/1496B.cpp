@@ -1,4 +1,4 @@
-/*#include<iostream>
+#include<iostream>
 #include<unordered_set>
 #include<string>
 using namespace std;
@@ -32,4 +32,3 @@ int main()
 		}
 	}
 }
-*/

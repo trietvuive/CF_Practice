@@ -1,4 +1,4 @@
-/*#include<bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
 vector<int>dp(24002);
 int main() {
@@ -25,4 +25,3 @@ int main() {
 	if (mx >= G)cout << "YES" << endl;
 	else cout << "NO" << endl;
 }
-*/

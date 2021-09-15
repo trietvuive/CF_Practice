@@ -1,4 +1,4 @@
-/*#include<iostream>
+#include<iostream>
 using namespace std;
 
 int gcd(int a, int b)
@@ -17,4 +17,3 @@ int main()
 	int m = min(a / c, b / d);
 	cout << c * m <<" "<< d * m << endl;
 }
-*/

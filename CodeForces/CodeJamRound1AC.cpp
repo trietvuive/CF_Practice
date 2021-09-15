@@ -1,4 +1,4 @@
-/*#include<bits/stdc++.h>
+#include<bits/stdc++.h>
 
 using namespace std;
 int main()
@@ -22,4 +22,3 @@ int main()
 		cout << "Case #" << i << ": " << max_ans << " " << max_score << "/1" << endl;
 	}
 }
-*/

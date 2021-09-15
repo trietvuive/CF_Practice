@@ -1,4 +1,4 @@
-/*#include<iostream>
+#include<iostream>
 using namespace std;
 const int MAX = 2e3 + 3;
 int a[MAX];
@@ -34,4 +34,3 @@ int main()
 	if (ans == n)cout << -1 << endl;
 	else cout << ans << endl;
 }
-*/

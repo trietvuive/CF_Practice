@@ -1,4 +1,4 @@
-/*#include<iostream>
+#include<iostream>
 #include<vector>
 #include<string>
 using namespace std;
@@ -17,4 +17,3 @@ int main()
 		ans = max(ans, right_ar[i] - left_ar[i - 1]);
 	cout << ans << endl;
 }
-*/

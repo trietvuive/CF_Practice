@@ -1,4 +1,4 @@
-/*#include<iostream>
+#include<iostream>
 using namespace std;
 const int N = 1e5 + 2;
 int n, a[N], f[N], g[N], c, x;
@@ -30,4 +30,3 @@ int main()
 	}
 	cout << 0 << endl;
 }
-*/

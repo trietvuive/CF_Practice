@@ -1,4 +1,4 @@
-/*#include<bits/stdc++.h>
+#include<bits/stdc++.h>
 #include "bigint.h"
 #define ll long long
 const ll MOD = 432e11;
@@ -93,4 +93,3 @@ int main()
             << (second % bigint(60)) << " " << (bigint(nano) % bigint((ll)1e9)) << endl;
 	}
 }
-*/

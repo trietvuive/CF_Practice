@@ -1,4 +1,4 @@
-/*#include<iostream>
+#include<iostream>
 const int MAX = 10e9 + 2;
 using namespace std;
 
@@ -21,4 +21,3 @@ int main()
 	cout << lowest_food << " " << highest_food << endl;
 
 }
-*/

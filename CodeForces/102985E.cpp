@@ -1,4 +1,4 @@
-/*#include<vector>
+#include<vector>
 #include<iostream>
 #include<algorithm>
 #define ll long long
@@ -47,4 +47,3 @@ int main()
 		cout << count << endl;
 	}
 }
-*/

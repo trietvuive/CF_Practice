@@ -1,7 +1,6 @@
 #include<vector>
 #include<algorithm>
 #include<iostream>
-/*
 using namespace std;
 void solve(int n, int k);
 void solve_3(int n, int factor);
@@ -37,4 +36,3 @@ void solve_3(int n, int factor)
 	else
 		solve_3(n / 2, factor * 2);
 }
-*/

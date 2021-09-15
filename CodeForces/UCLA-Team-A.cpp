@@ -1,4 +1,4 @@
-/*#include<bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
 bool is_vowel(char c)
 {
@@ -29,4 +29,3 @@ int main()
 	}
 	cout << ans << endl;
 }
-*/

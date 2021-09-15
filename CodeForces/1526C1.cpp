@@ -1,4 +1,4 @@
-/*#include<bits/stdc++.h>
+#include<bits/stdc++.h>
 #define ll long long
 const int MAXN = 200002;
 ll ar[MAXN];
@@ -26,4 +26,3 @@ int main()
 	}
 	cout << potions << endl;
 }
-*/

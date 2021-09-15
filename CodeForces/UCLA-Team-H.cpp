@@ -1,4 +1,4 @@
-/*#include<bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
 int dp[5001][5001];
 bool play(int stone, int turn)
@@ -37,4 +37,3 @@ int main()
 	else
 		cout << "NO" << endl;
 }
-*/

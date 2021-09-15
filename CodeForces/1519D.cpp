@@ -1,4 +1,4 @@
-/*#include<bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
 const int MAXN = 5005;
 #define ll long long
@@ -22,4 +22,3 @@ int main()
 	cout << mx + init << endl;
 
 }
-*/

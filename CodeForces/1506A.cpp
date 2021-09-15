@@ -1,4 +1,4 @@
-/*#include<iostream>
+#include<iostream>
 #define ll long long
 using namespace std;
 
@@ -14,4 +14,3 @@ int main()
 		cout << m * row + column + 1 << endl;
 	}
 }
-*/

@@ -86,7 +86,7 @@
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
       <SDLCheck>true</SDLCheck>
-      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
     <Link>
@@ -138,75 +138,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="102986A.cpp" />
-    <ClCompile Include="102986B.cpp" />
-    <ClCompile Include="102985C.cpp" />
-    <ClCompile Include="102985D.cpp" />
-    <ClCompile Include="102985E.cpp" />
-    <ClCompile Include="1398C.cpp" />
-    <ClCompile Include="1490E.cpp" />
-    <ClCompile Include="1491A.cpp" />
-    <ClCompile Include="1491C.cpp" />
-    <ClCompile Include="1492C.cpp" />
-    <ClCompile Include="1494B.cpp" />
-    <ClCompile Include="1495B.cpp" />
-    <ClCompile Include="1496B.cpp" />
-    <ClCompile Include="1497-C1.cpp" />
-    <ClCompile Include="1497A.cpp" />
-    <ClCompile Include="1497B.cpp" />
-    <ClCompile Include="1497E1.cpp" />
-    <ClCompile Include="1498B.cpp" />
-    <ClCompile Include="1498C.cpp" />
-    <ClCompile Include="1499A.cpp" />
-    <ClCompile Include="1499B.cpp" />
-    <ClCompile Include="1500A.cpp" />
-    <ClCompile Include="1501A.cpp" />
-    <ClCompile Include="1501B.cpp" />
-    <ClCompile Include="1496A.cpp" />
-    <ClCompile Include="1503A.cpp" />
-    <ClCompile Include="1504B.cpp" />
-    <ClCompile Include="1504D.cpp" />
-    <ClCompile Include="1506A.cpp" />
-    <ClCompile Include="1506B.cpp" />
-    <ClCompile Include="1506C.cpp" />
-    <ClCompile Include="1506E.cpp" />
-    <ClCompile Include="1509C.cpp" />
-    <ClCompile Include="1510D.cpp" />
-    <ClCompile Include="1510K.cpp" />
-    <ClCompile Include="1513C.cpp" />
-    <ClCompile Include="1519D.cpp" />
-    <ClCompile Include="1520E.cpp" />
-    <ClCompile Include="1520F1.cpp" />
-    <ClCompile Include="1521B.cpp" />
-    <ClCompile Include="1526C1.cpp" />
-    <ClCompile Include="1539C.cpp" />
-    <ClCompile Include="1539D.cpp" />
-    <ClCompile Include="CJ.cpp" />
-    <ClCompile Include="1506D.cpp" />
-    <ClCompile Include="CodeJam1AA.cpp" />
-    <ClCompile Include="CodeJam1AB.cpp" />
-    <ClCompile Include="CodeJam1BA.cpp" />
-    <ClCompile Include="CodeJamRound1AC.cpp" />
-    <ClCompile Include="1517C.cpp" />
-    <ClCompile Include="MedianSort.cpp" />
-    <ClCompile Include="ReverseSortcpp.cpp" />
-    <ClCompile Include="ReverseSortEngineering.cpp" />
-    <ClCompile Include="SubsetMax.cpp" />
-    <ClCompile Include="UCLA-A.cpp" />
-    <ClCompile Include="UCLA-B.cpp" />
-    <ClCompile Include="UCLA-C.cpp" />
-    <ClCompile Include="UCLA-D.cpp" />
-    <ClCompile Include="UCLA-E.cpp" />
-    <ClCompile Include="UCLA-Team-A.cpp" />
-    <ClCompile Include="UCLA-Team-B.cpp" />
-    <ClCompile Include="UCLA-Team-D.cpp" />
-    <ClCompile Include="UCLA-Team-E.cpp" />
-    <ClCompile Include="UCLA-Team-H.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="1493B.cpp" />
-  </ItemGroup>
   <ItemGroup>
     <ClInclude Include="bigint.h" />
   </ItemGroup>

@@ -1,4 +1,4 @@
-/*#include<vector>
+#include<vector>
 #include<iostream>
 #include<algorithm>
 #define ll long long
@@ -46,4 +46,3 @@ int main()
 	ll left_y = res.first % MAX_N;
 	std::cout << left_y <<" " << left_x <<" "<< left_y + res.second % MAX_N<<" "<< left_x + res.second / MAX_N;
 }
-*/

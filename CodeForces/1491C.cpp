@@ -1,4 +1,4 @@
-/*#include<iostream>
+#include<iostream>
 using namespace std;
 #define ll long long
 #define For(i,l,r) for(int i=l;i<=r;i++)
@@ -31,4 +31,3 @@ int main()
     }
     return 0;
 }
-*/

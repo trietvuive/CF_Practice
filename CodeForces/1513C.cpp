@@ -1,4 +1,3 @@
-/*
 #include<bits/stdc++.h>
 using namespace std;
 const int MOD = 1e9 + 7, MAX = 200011;
@@ -21,4 +20,3 @@ int main()
 		cout << ans << endl;
 	}
 }
-*/

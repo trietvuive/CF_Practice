@@ -1,4 +1,4 @@
-/*#include<bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
 bool equal(const string& a, const string& b)
 {
@@ -76,4 +76,3 @@ int main()
 		cout << "Case #" <<i<<": " << append << endl;
 	}
 }
-*/

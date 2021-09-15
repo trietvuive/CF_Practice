@@ -1,4 +1,4 @@
-/*#include<bits/stdc++.h>
+#include<bits/stdc++.h>
 const int MOD = 1000000007;
 #define ll long long
 using namespace std;
@@ -49,4 +49,3 @@ int main()
 		printf("\n");
 	}
 }
-*/

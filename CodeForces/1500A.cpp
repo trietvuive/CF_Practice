@@ -1,4 +1,3 @@
-/*
 #include<vector>
 #include<iostream>
 #include<unordered_map>
@@ -35,4 +34,3 @@ int main()
 	}
 	cout << "NO" << endl;
 }
-*/

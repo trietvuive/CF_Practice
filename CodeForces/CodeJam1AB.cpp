@@ -1,4 +1,4 @@
-/*#include<bits/stdc++.h>
+#include<bits/stdc++.h>
 #include<unordered_map>
 #define ll long long
 using namespace std;
@@ -67,4 +67,3 @@ int main()
 		cout << "Case #"<<case_no << ": " << max_product << endl;
 	}
 }
-*/

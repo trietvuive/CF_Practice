@@ -1,4 +1,3 @@
-/*
 #include<iostream>
 using namespace std;
 int star[52];
@@ -27,4 +26,3 @@ int main()
 		cout << min(count,star_count) << endl;
 	}
 }
-*/
