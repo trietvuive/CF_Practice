@@ -141,6 +141,9 @@
   <ItemGroup>
     <ClInclude Include="bigint.h" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1547B.cpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

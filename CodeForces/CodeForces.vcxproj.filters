@@ -178,4 +178,9 @@
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1547B.cpp">
+      <Filter>Source Files\Round 731 Div. 3</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
