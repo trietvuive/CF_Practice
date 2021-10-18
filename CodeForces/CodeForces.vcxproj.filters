@@ -172,15 +172,25 @@
     <Filter Include="Source Files\Round 736 Div. 2">
       <UniqueIdentifier>{55318596-c194-4143-b631-656596c11b4c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Round 734 Div. 2">
+      <UniqueIdentifier>{e7de5e0d-1731-48b8-9f44-a816063d9f5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Round 743 Div. 2">
+      <UniqueIdentifier>{f5ab755f-6818-4b87-89da-1b3f07fade53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Round 743 Div. 1">
+      <UniqueIdentifier>{3bd73f4a-90cf-46b5-aeb0-4e992c3e246f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Round 113 Div. 2">
+      <UniqueIdentifier>{8c8e829c-0ee0-44b8-879d-2ab472c81b2e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\1500%27s problem">
+      <UniqueIdentifier>{d2f1967a-58e4-4093-bc70-8ec96f4de048}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="bigint.h">
       <Filter>Source Files</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="1547B.cpp">
-      <Filter>Source Files\Round 731 Div. 3</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
