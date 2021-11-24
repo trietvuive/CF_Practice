@@ -194,7 +194,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="494A.cpp">
+    <ClCompile Include="340C.cpp">
       <Filter>Source Files\1500%27s problem</Filter>
     </ClCompile>
   </ItemGroup>
