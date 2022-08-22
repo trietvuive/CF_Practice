@@ -1,33 +1,32 @@
 #include<bits/stdc++.h>
+#define ll long long
 using namespace std;
 
-int a[100002], b[100002], n, m;
+ll a[100002], b[100002], n, m;
+ll sm;
+
+void change(int idx) {
+    int old_val = b[idx];
+    b[idx] = a[idx] != a[idx-1];
+
+    if(old_val != b[idx]) {
+        if(b[idx] == 1) sm += (idx-1) * (n-idx+1);
+        else sm -= (idx-1) * (n-idx+1);
+    }
+}
 int main() {
 	ios_base::sync_with_stdio(false), cin.tie(NULL), cout.tie(NULL);
 	cin >> n >> m;
 	for(int i = 1; i <= n; ++i) cin >> a[i], b[i] = (a[i] != a[i-1]);
 
-	int sm = 0;
 	for(int i = 1; i <= n; ++i) 
-		sm += b[i] * (n-i+1) * i;
+        sm += b[i] * (i-1) * (n-i+1) + (n-i+1);
 
-	for(int j = 1; j <= m; ++j) {
-		int i, x; cin >> i >> x;
-		a[i] = x;
-		int prev1 = b[i];
-		b[i] = a[i] != a[i-1];
-
-		if(b[i] != prev1)
-			sm += (b[i] - prev1) * (n-i+1) * i;
-		++i;
-
-		if(i <= n) {
-			int prev2 = b[i];
-			b[i] = a[i] != a[i-1];
-
-			if(b[i] != prev2)
-				sm += (b[i] - prev2) * (n-i+1) * i;
-		}
-		cout << sm << '\n';
-	}
+    for(int q = 1; q <= m; ++q) {
+        int i,x; cin >> i >> x;
+        a[i] = x;
+        change(i);
+        change(i + 1);
+        cout << sm << '\n';
+    }
 }
