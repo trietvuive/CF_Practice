@@ -1,5 +1,4 @@
-#include <cstdio>
-#include <vector>
+#include <bits/stdc++.h>
 using namespace std;
 // Lemma: All vertex can either reach a cycle or in a cycle themselves
 
