@@ -36,3 +36,6 @@
 *.in
 *.out
 *.ans
+
+# ignore ide
+*.vscode
